@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Implementation-Title: jSerialComm: Java Serial Communications Library
+Implementation-Version: 1.3.11
+Implementation-Vendor: Fazecast, Inc.
+Sealed: true
+

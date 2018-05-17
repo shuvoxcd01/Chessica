@@ -57,16 +57,8 @@
 
 ------------------------------------------------------------------------------------------------------------
 ************************************************************************************************************
-[NB: We did not use any IDE (netbeans,eclipse etc). From the very beginning to the ending we did each and everything manually.
-	We used:
-		1. Notepad++ as editor
-		2. Java SE Development Kit 8
-
-   - Even the docs (created using javadoc command) and jar (using jar command) are created manually. So there is probability of performance
-   deficiencies. But we have tried out best not to compromise the performance.]
 
 ***********************************************************************************************************
 ------------------------------------------------------------------------------------------------------------
-** About Group/Team Members:
-	See GroupInfo.txt
+
 
